@@ -114,8 +114,8 @@ iframe {
 /* ======= Header ======= */
 .header {
   padding: 30px 0;
-  background: #ffffff;
-  border-top: 10px solid #ffffff;
+  background: #faf6f6;
+  border-top: 10px solid #fafcff;
 }
 .header .btn {
   margin-top: 60px;
