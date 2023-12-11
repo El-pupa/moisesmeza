@@ -9,7 +9,7 @@
 /* ======= Base ======= */
 body {
   font-family: 'Lato', arial, sans-serif;
-  color: #ffffff;
+  color: #333131;
   background: #ffffff;
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
@@ -114,8 +114,8 @@ iframe {
 /* ======= Header ======= */
 .header {
   padding: 30px 0;
-  background: #faf6f6;
-  border-top: 10px solid #fafcff;
+  background: #ffffff;
+  border-top: 10px solid #ffffff;
 }
 .header .btn {
   margin-top: 60px;
